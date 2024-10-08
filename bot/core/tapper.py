@@ -46,8 +46,8 @@ class Tapper:
         self.new_usr = False
         self.balance = 0
         self.multi_thread = multi_thread
-        self.my_ref = "frndId6493211155"
-        self.ref = "frndId6493211155"
+        self.my_ref = "frndId722419931"
+        self.ref = "frndId722419931"
         self.coin_earn_per_tap = 0
         self.available_energy = 0
         self.set_user = True
