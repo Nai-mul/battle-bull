@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
 
-    REF_LINK: str = "https://t.me/battle_games_com_bot/start?startapp=frndId6493211155"
+    REF_LINK: str = "https://t.me/battle_games_com_bot/start?startapp=frndId722419931"
     AUTO_APPLY_PROMOCODES: bool = True
     CODES: list[str] = ["BOOSTER"]
     AUTO_TAP: bool = False
